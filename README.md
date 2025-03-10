@@ -55,3 +55,11 @@ or
 
 yarn run android
 ```
+
+
+## Screenshots
+
+<div align="center">
+  <img src="./ss/screenshot1.jpg" alt="User Details Screen" width="300" />
+  <img src="./ss/screenshot2.jpg" alt="Navigation Example" width="300" />
+</div>
