@@ -105,8 +105,8 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: '600',
     textAlign: 'center',
-    color: '#1a73e8',
-    marginBottom: 8,
+    color: '#202124',
+    marginBottom: 20,
   },
   name: {
     fontSize: 22,
@@ -125,13 +125,13 @@ const styles = StyleSheet.create({
     marginBottom: 24,
   },
   infoItem: {
-    marginBottom: 16,
+    marginBottom: 12,
   },
   label: {
     fontSize: 14,
-    fontWeight: 'bold',
-    color: '#000',
-    marginBottom: 8,
+    fontWeight: '600',
+    color: '#1a73e8',
+    marginBottom: 6,
     paddingLeft: 4,
   },
   inputLike: {
@@ -139,10 +139,10 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     padding: 12,
     borderWidth: 1,
-    borderColor: '#dadce0',
+    borderColor: '#e0e0e0',
   },
   value: {
-    fontSize: 16,
+    fontSize: 15,
     color: '#202124',
   },
   navigationButtons: {
@@ -165,6 +165,8 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: '500',
   },
+  
+ 
 });
 
 export default UserDetails;
